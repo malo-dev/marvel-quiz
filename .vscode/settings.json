@@ -1,0 +1,6 @@
+{
+    "editor.tabSize": 4,
+    "editor.renderWhitespace": "selection",
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": true
+}
